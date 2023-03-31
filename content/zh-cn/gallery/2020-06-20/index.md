@@ -8,12 +8,12 @@ shot_with: Fujifilm X-T20
 description:
 draft: false
 images:
-  - /gallery/2020-06-20/DSCF2839_t.webp
-  - /gallery/2020-06-20/DSCF2840_t.webp
-  - /gallery/2020-06-20/DSCF2856_t.webp
-  - /gallery/2020-06-20/DSCF2857_t.webp
-  - /gallery/2020-06-20/DSCF2861_t.webp
-  - /gallery/2020-06-20/DSCF2878_t.webp
+  - /blowfish-with-gallery/gallery/2020-06-20/DSCF2839_t.webp
+  - /blowfish-with-gallery/gallery/2020-06-20/DSCF2840_t.webp
+  - /blowfish-with-gallery/gallery/2020-06-20/DSCF2856_t.webp
+  - /blowfish-with-gallery/gallery/2020-06-20/DSCF2857_t.webp
+  - /blowfish-with-gallery/gallery/2020-06-20/DSCF2861_t.webp
+  - /blowfish-with-gallery/gallery/2020-06-20/DSCF2878_t.webp
 ---
 
 {{< photo src="DSCF2839_3000.webp" alt="虎门大桥" caption="" >}}

@@ -8,7 +8,7 @@ shot_with: Fujifilm X-T20
 description: 
 draft: false
 images:
-  - /gallery/2020-07-04/DSCF2922_t.webp
+  - /blowfish-with-gallery/gallery/2020-07-04/DSCF2922_t.webp
 ---
 
 {{< photo src="DSCF2922_3000.webp" alt="云隙" caption="" >}}

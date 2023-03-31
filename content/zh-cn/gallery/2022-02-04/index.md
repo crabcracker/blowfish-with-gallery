@@ -8,13 +8,13 @@ shot_with: Fujifilm X100V
 description: 春节在家，忍受了十几天的阴天后终于放晴，于是出门拍照。使用“Kodak Portra 160”胶片模拟配方（来自 Fuji X Weekly）。
 draft: false
 images:
-  - /gallery/2022-02-04/DSCF0225_t.webp
-  - /gallery/2022-02-04/DSCF0232_t.webp
-  - /gallery/2022-02-04/DSCF0240_t.webp
-  - /gallery/2022-02-04/DSCF0233_t.webp
-  - /gallery/2022-02-04/DSCF0238_t.webp
-  - /gallery/2022-02-04/DSCF0242_t.webp
-  - /gallery/2022-02-04/DSCF0245_t.webp
+  - /blowfish-with-gallery/gallery/2022-02-04/DSCF0225_t.webp
+  - /blowfish-with-gallery/gallery/2022-02-04/DSCF0232_t.webp
+  - /blowfish-with-gallery/gallery/2022-02-04/DSCF0240_t.webp
+  - /blowfish-with-gallery/gallery/2022-02-04/DSCF0233_t.webp
+  - /blowfish-with-gallery/gallery/2022-02-04/DSCF0238_t.webp
+  - /blowfish-with-gallery/gallery/2022-02-04/DSCF0242_t.webp
+  - /blowfish-with-gallery/gallery/2022-02-04/DSCF0245_t.webp
 ---
 
 {{< photo src="DSCF0225_3000.webp" alt="田野" caption="田野" >}}
