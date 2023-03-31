@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/crabcracker/blowfish-with-gallery?style=flat-square)
 [![Powered by](https://img.shields.io/badge/powered%20by-hugo-ff4088?style=flat-square)](https://gohugo.io)
 
-本项目是魔改版的 Hugo 主题 [blowfish](https://github.com/nunocoracao/blowfish)，在 blowfish 中植入了 Hugo 主题 [hermit](https://github.com/Track3/hermit) 作者 [Track3](https://github.com/Track3) 的个人博客 [Zakee's Planet](https://github.com/Track3/blog) 的 Gallery 元素。
+本项目是魔改版的 Hugo 主题 [blowfish](https://github.com/nunocoracao/blowfish)，在 blowfish 中植入了 Hugo 主题 [hermit](https://github.com/Track3/hermit) 作者 [Track3](https://github.com/Track3) 的个人博客 [Zakee's Planet](https://github.com/Track3/blog) 中的 Gallery 元素。
 
 ## 注意事项
 
